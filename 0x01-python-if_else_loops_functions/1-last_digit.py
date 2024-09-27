@@ -9,7 +9,7 @@ else:
     last_digit = -(-number % 10)
 
 # Print the required output
-print(f"The Last digit of {number} is {last_digit}", end=" ")
+print(f"Last digit of {number} is {last_digit}", end=" ")
 
 # Check the conditions
 if last_digit > 5:
